@@ -1,2 +1,8 @@
 # Hellow_world-java-Program
-Simple java program
+# Simple java program
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("This will be printed");
+    }
+}
